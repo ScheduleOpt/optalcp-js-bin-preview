@@ -1,0 +1,20 @@
+{
+  "name": "@scheduleopt/optalcp-bin-preview",
+  "homepage": "https://optalcp.com",
+  "version": "2024.5.0",
+  "description": "Preview version of OptalCP solver",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": [
+    "optimization",
+    "scheduling",
+    "solver"
+  ],
+  "files": [
+    "README.md",
+    "LICENSE.md",
+    "bin/**/*"
+  ],
+  "peerDependencies": {
+    "@scheduleopt/optalcp": "ScheduleOpt/optalcp-js#semver:~2024.5.0"
+  }
+}
