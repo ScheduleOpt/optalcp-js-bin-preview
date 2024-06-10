@@ -25,7 +25,7 @@ This package contains JavaScript (and TypeScript) API for the solver.
 To test the installation, run:
 
 ```sh
-npx optalcp.js --version
+npx optalcp --version
 ```
 
 The documentation can be found on the [OptalCP web page](https://optalcp.com/docs/api).
