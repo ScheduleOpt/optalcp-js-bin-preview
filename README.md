@@ -1,4 +1,4 @@
-# OptalCP binaries for JavaScript (preview version)
+# OptalCP binaries for JavaScript (Preview Version)
 
 This is a JavaScript `npm` module named `@scheduleopt/optalcp-bin-preview`.
 It contains compiled binaries (executables) of [OptalCP solver](https://optalcp.com).
