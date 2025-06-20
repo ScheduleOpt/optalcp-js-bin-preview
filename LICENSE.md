@@ -1,10 +1,10 @@
 # Agreement for ScheduleOpt OptalCP non-commercial use
 
-The purpose of *CoEnzyme non-commercial agreement* is to make **ScheduleOpt OptalCP Evaluation version** available at no charge to you for instruction, learning and non-commercial research uses.
+The purpose of *CoEnzyme non-commercial agreement* is to make **ScheduleOpt OptalCP Preview version** available at no charge to you for instruction, learning and non-commercial research uses.
 
-By using  **ScheduleOpt OptalCP** **Demo version** you agree to be bound by the terms and conditions of this Agreement.
+By using  **ScheduleOpt OptalCP** **Preview version** you agree to be bound by the terms and conditions of this Agreement.
 
-**CoEnzyme SAS** grants you a non-exclusive, non-transferable license to use **ScheduleOpt OptalCP** **Evaluation version** solely for instruction and learning, as well as non-commercial research at your Institution. This use includes the design, development and testing of software applications or hardware created by you. You may make copies, including backup copies, to support the level of use authorized, provided you ensure that the copyright notices and any other legends of ownership are reproduced on each copy or partial copy.
+**CoEnzyme SAS** grants you a non-exclusive, non-transferable license to use **ScheduleOpt OptalCP** **Preview version** solely for instruction and learning, as well as non-commercial research at your Institution. This use includes the design, development and testing of software applications or hardware created by you. You may make copies, including backup copies, to support the level of use authorized, provided you ensure that the copyright notices and any other legends of ownership are reproduced on each copy or partial copy.
 
 You may install these copies only on:
 
@@ -12,9 +12,9 @@ You may install these copies only on:
 
 2. personal computers owned by the Institution staff.
 
-You may distribute **ScheduleOpt OptalCP** **Evaluation version** only within your Institution.
+You may distribute **ScheduleOpt OptalCP** **Preview version** only within your Institution.
 
-**ScheduleOpt OptalCP** **Evaluation version** may not be
+**ScheduleOpt OptalCP** **Preview version** may not be
 
 1. used, copied, modified, or distributed except as provided in this Agreement;
 2. reverse assembled, reverse compiled, or otherwise translated, except as specifically permitted by law without the possibility of contractual waiver;
@@ -22,11 +22,11 @@ You may distribute **ScheduleOpt OptalCP** **Evaluation version** only within yo
 4. used for commercial or administrative purposes;
 5. used for any purpose that is not instruction, learning and non-commercial research.
 
-You agree to ensure that any member of your institution to whom you provide access to **ScheduleOpt OptalCP** **Evaluation version** has read, understands, and agrees to be bound by the terms of this Agreement.
+You agree to ensure that any member of your institution to whom you provide access to **ScheduleOpt OptalCP** **Preview version** has read, understands, and agrees to be bound by the terms of this Agreement.
 
-Subject to any statutory warranties which can not be excluded, **CoEnzyme SAS** makes no warranties or conditions either express or implied, including without limitation, the implied warranties or conditions of merchantability, fitness for a particular purpose, and non-infringement regarding its products, in particular **ScheduleOpt OptalCP Evaluation version**.
+Subject to any statutory warranties which can not be excluded, **CoEnzyme SAS** makes no warranties or conditions either express or implied, including without limitation, the implied warranties or conditions of merchantability, fitness for a particular purpose, and non-infringement regarding its products, in particular **ScheduleOpt OptalCP Preview version**.
 
-The offering has no term end date. If you fail to comply with the terms of this Agreement, **CoEnzyme SAS** may terminate all of your licenses to use **ScheduleOpt OptalCP** **Evaluation version**.
+The offering has no term end date. If you fail to comply with the terms of this Agreement, **CoEnzyme SAS** may terminate all of your licenses to use **ScheduleOpt OptalCP** **Preview version**.
 
 Both you and **CoEnzyme SAS** consent to the application of the laws of France to govern, interpret, and enforce all of your and **CoEnzyme** rights, duties, and obligations arising from, or relating in any manner to, the subject matter of this Agreement, without regard to conflict of law principles.
 
