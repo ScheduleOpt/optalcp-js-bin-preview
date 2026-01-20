@@ -1,7 +1,7 @@
 {
   "name": "@scheduleopt/optalcp-bin-preview",
   "homepage": "https://optalcp.com",
-  "version": "2025.12.1",
+  "version": "2025.12.2",
   "description": "Preview version of OptalCP solver",
   "license": "SEE LICENSE IN LICENSE.md",
   "keywords": [
@@ -16,6 +16,6 @@
     "!**/*.map"
   ],
   "peerDependencies": {
-    "@scheduleopt/optalcp": "ScheduleOpt/optalcp-js#semver:~2025.12.1"
+    "@scheduleopt/optalcp": "ScheduleOpt/optalcp-js#semver:~2025.12.2"
   }
 }
