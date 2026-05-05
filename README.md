@@ -8,7 +8,6 @@ The following architectures are supported:
 
 * Linux x64
 * Windows x64
-* macOS x64
 * macOS arm64
 
 ## Installation
