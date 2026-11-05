@@ -1,10 +1,10 @@
-# Agreement for ScheduleOpt OptalCP non-commercial use
+# Agreement for OptalCP non-commercial use
 
-The purpose of *CoEnzyme non-commercial agreement* is to make **ScheduleOpt OptalCP Preview version** available at no charge to you for instruction, learning and non-commercial research uses.
+The purpose of *Optal SAS non-commercial agreement* is to make **OptalCP Preview version** available at no charge to you for instruction, learning and non-commercial research uses.
 
-By using  **ScheduleOpt OptalCP** **Preview version** you agree to be bound by the terms and conditions of this Agreement.
+By using  **OptalCP** **Preview version** you agree to be bound by the terms and conditions of this Agreement.
 
-**CoEnzyme SAS** grants you a non-exclusive, non-transferable license to use **ScheduleOpt OptalCP** **Preview version** solely for instruction and learning, as well as non-commercial research at your Institution. This use includes the design, development and testing of software applications or hardware created by you. You may make copies, including backup copies, to support the level of use authorized, provided you ensure that the copyright notices and any other legends of ownership are reproduced on each copy or partial copy.
+**Optal SAS** grants you a non-exclusive, non-transferable license to use **OptalCP** **Preview version** solely for instruction and learning, as well as non-commercial research at your Institution. This use includes the design, development and testing of software applications or hardware created by you. You may make copies, including backup copies, to support the level of use authorized, provided you ensure that the copyright notices and any other legends of ownership are reproduced on each copy or partial copy.
 
 You may install these copies only on:
 
@@ -12,9 +12,9 @@ You may install these copies only on:
 
 2. personal computers owned by the Institution staff.
 
-You may distribute **ScheduleOpt OptalCP** **Preview version** only within your Institution.
+You may distribute **OptalCP** **Preview version** only within your Institution.
 
-**ScheduleOpt OptalCP** **Preview version** may not be
+**OptalCP** **Preview version** may not be
 
 1. used, copied, modified, or distributed except as provided in this Agreement;
 2. reverse assembled, reverse compiled, or otherwise translated, except as specifically permitted by law without the possibility of contractual waiver;
@@ -22,13 +22,13 @@ You may distribute **ScheduleOpt OptalCP** **Preview version** only within your 
 4. used for commercial or administrative purposes;
 5. used for any purpose that is not instruction, learning and non-commercial research.
 
-You agree to ensure that any member of your institution to whom you provide access to **ScheduleOpt OptalCP** **Preview version** has read, understands, and agrees to be bound by the terms of this Agreement.
+You agree to ensure that any member of your institution to whom you provide access to **OptalCP** **Preview version** has read, understands, and agrees to be bound by the terms of this Agreement.
 
-Subject to any statutory warranties which can not be excluded, **CoEnzyme SAS** makes no warranties or conditions either express or implied, including without limitation, the implied warranties or conditions of merchantability, fitness for a particular purpose, and non-infringement regarding its products, in particular **ScheduleOpt OptalCP Preview version**.
+Subject to any statutory warranties which can not be excluded, **Optal SAS** makes no warranties or conditions either express or implied, including without limitation, the implied warranties or conditions of merchantability, fitness for a particular purpose, and non-infringement regarding its products, in particular **OptalCP Preview version**.
 
-The offering has no term end date. If you fail to comply with the terms of this Agreement, **CoEnzyme SAS** may terminate all of your licenses to use **ScheduleOpt OptalCP** **Preview version**.
+The offering has no term end date. If you fail to comply with the terms of this Agreement, **Optal SAS** may terminate all of your licenses to use **OptalCP** **Preview version**.
 
-Both you and **CoEnzyme SAS** consent to the application of the laws of France to govern, interpret, and enforce all of your and **CoEnzyme** rights, duties, and obligations arising from, or relating in any manner to, the subject matter of this Agreement, without regard to conflict of law principles.
+Both you and **Optal SAS** consent to the application of the laws of France to govern, interpret, and enforce all of your and **Optal SAS** rights, duties, and obligations arising from, or relating in any manner to, the subject matter of this Agreement, without regard to conflict of law principles.
 
 ## Licenses for third-party software used by OptalCP
 
@@ -163,6 +163,34 @@ Homepage: <https://github.com/doctest/doctest>
 The MIT License (MIT)
 
 Copyright (c) 2016-2023 Viktor Kirilov
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### emhash8
+
+Homepage: <https://github.com/ktprime/emhash>
+
+#### License
+
+MIT License
+
+Copyright (c) 2021-2025 Huang Yuanbing & bailuzhou AT 163.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -444,3 +472,125 @@ The Software shall be used for Good, not Evil.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+### moodycamel::ConcurrentQueue
+
+#### License
+
+This license file applies to everything in this repository except that which
+is explicitly annotated as being written by other authors, i.e. the Boost
+queue (included in the benchmarks for comparison), Intel's TBB library (ditto),
+dlib::pipe (ditto),
+the CDSChecker tool (used for verification), the Relacy model checker (ditto),
+and Jeff Preshing's semaphore implementation (used in the blocking queue) which
+has a zlib license (embedded in lightweightsempahore.h).
+
+---
+
+Simplified BSD License:
+
+Copyright (c) 2013-2016, Cameron Desrochers.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+- Redistributions of source code must retain the above copyright notice, this list of
+conditions and the following disclaimer.
+- Redistributions in binary form must reproduce the above copyright notice, this list of
+conditions and the following disclaimer in the documentation and/or other materials
+provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
+THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+I have also chosen to dual-license under the Boost Software License as an alternative to
+the Simplified BSD license above:
+
+Boost Software License - Version 1.0 - August 17th, 2003
+
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of the software and accompanying documentation covered by
+this license (the "Software") to use, reproduce, display, distribute,
+execute, and transmit the Software, and to prepare derivative works of the
+Software, and to permit third-parties to whom the Software is furnished to
+do so, all subject to the following:
+
+The copyright notices in the Software and this entire statement, including
+the above license grant, this restriction and the following disclaimer,
+must be included in all copies of the Software, in whole or in part, and
+all derivative works of the Software, unless such copies or derivative
+works are solely in the form of machine-executable object code generated by
+a source language processor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
+FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+### mumx hash function
+
+Homepage: <https://github.com/martinus/map_benchmark>
+
+#### License
+
+MIT License
+
+Copyright (c) 2018-2019 Martin Ankerl
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### Whereami
+
+Homepage: <https://github.com/gpakosz/whereami>
+
+#### License
+
+The MIT License (MIT)
+
+Copyright (c) Gregory Pakosz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

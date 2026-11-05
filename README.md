@@ -32,8 +32,9 @@ The documentation can be found on the [OptalCP web page](https://optalcp.com/doc
 ## Versions and tags
 
 You can use the `#latest` suffix to get the latest stable version.
-You can also install a particular version by specifying its tag, for example:
+You can also install a particular version by specifying its tag. Replace
+`vYYYY.M.P` below with the version you want:
 
 ```sh
-npm install scheduleopt/optalcp-js-bin-preview#v2024.5.0
+npm install scheduleopt/optalcp-js-bin-preview#vYYYY.M.P
 ```
