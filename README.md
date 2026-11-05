@@ -15,7 +15,7 @@ The following architectures are supported:
 The module can be installed directly from [optalcp-js-bin-preview GitHub repository](https://github.com/ScheduleOpt/optalcp-js-bin-preview) by running:
 
 ```sh
-npm install scheduleopt/optalcp-js-bin-preview#latest
+npm install --allow-git=all scheduleopt/optalcp-js-bin-preview#latest
 ```
 
 The line above also installs npm package `@scheduleopt/optalcp` from [optalcp-js repository](https://github.com/ScheduleOpt/optalcp-js).
@@ -36,5 +36,5 @@ You can also install a particular version by specifying its tag. Replace
 `vYYYY.M.P` below with the version you want:
 
 ```sh
-npm install scheduleopt/optalcp-js-bin-preview#vYYYY.M.P
+npm install --allow-git=all scheduleopt/optalcp-js-bin-preview#vYYYY.M.P
 ```
